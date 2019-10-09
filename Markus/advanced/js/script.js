@@ -12,7 +12,7 @@ for(var i = 0; i < book.length; i++) {
   var ulist = document.createElement("ul");
   var li = document.createElement("li");
   li.setAttribute("id","farbe"+i)
-  
+
   var pic = document.createElement("IMG");
   pic.setAttribute("src", "./img/book"+[i]+".png");
   pic.setAttribute("width", "120");
@@ -23,7 +23,6 @@ for(var i = 0; i < book.length; i++) {
   var elementUL = document.getElementById("main");
   elementUL.appendChild(ulist);
 
-// Picture
   var elementPIC = document.getElementById("main");
   elementPIC.appendChild(li);
   
