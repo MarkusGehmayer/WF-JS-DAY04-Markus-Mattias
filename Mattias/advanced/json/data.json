@@ -1,29 +1,29 @@
-var book = {
+var json = [{
 	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
+   "author": "Jason Statham",
    "read": "false"
   },{
-	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
+	"title": "HTML for Dummies",
+   "author": "Albertus Zweistein",
    "read": "false"
   },{
-	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
+	"title": "CSS for Dummies",
+   "author": "Das Waff",
+   "read": "true"
+  },{
+	"title": "JAVA for Dummies",
+   "author": "Arbeits Markt Service",
    "read": "false"
   },{
-	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
+	"title": "C++ for Dummies",
+   "author": "Franz Kafka",
    "read": "false"
   },{
-	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
-   "read": "false"
+	"title": "Jus for Dummies",
+   "author": "Freddi Krüger",
+   "read": "true"
   },{
-	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
+	"title": "Vaccinate for Dummies",
+   "author": "Homer Simpsons",
    "read": "false"
-  },{
-	"title": "Javascript for Dummies",
-   "author": "Dummy Dumb Dumb",
-   "read": "false"
-  }
+  }];
