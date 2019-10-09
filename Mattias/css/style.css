@@ -9,6 +9,19 @@ body{
 	width: 100%;
 	display: flex;
 	justify-content: center;
-
+	align-items: center;
+}
+.create{
+	border: 5px solid black;
+}
+td{
+border: 2px solid black;
+text-align: center;
+}
+tr{
+	margin: 0;
+}
+table{
+	border: 2px solid black;
 
 }
