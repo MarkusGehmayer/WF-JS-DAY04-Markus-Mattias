@@ -9,6 +9,14 @@ body{
 	width: 100%;
 	display: flex;
 	justify-content: center;
+}
 
+table {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
+td {
+	border: 1px  solid black;
 }
