@@ -9,11 +9,10 @@ console.log("my favorite burger is " +sandwiches.sandwich);
 console.log("My favorite burger is a " + sandwiches.sandwich + " which has approximately " +sandwiches.calories+" calories, along with it I enjoy eating " +fries.fries_size + "which have about " +fries.calories+ " calories.");
 */
 
-	
-
 window.onload = function() {
+
 for(var i = 0; i < json.length; i++) {
-    var obj = json[i];
+  var obj = json[i];
   var table = document.getElementById("create");
   var row = table.insertRow(i);
   var cell1 = row.insertCell(0);
@@ -29,4 +28,7 @@ for(var i = 0; i < json.length; i++) {
   cell5.innerHTML = obj.Job_Title;
   cell6.innerHTML = obj.Salary;
 };
+
 };
+
+

@@ -7,7 +7,6 @@ var json = [{
 	"Job_Title": "Job_Title",
 	"Salary": "Salary"
 },{
-
 	"Unique_ID":  "32484",
 	"First_Name": "Phill",
 	"Last_Name": "Hurigon",
@@ -78,3 +77,4 @@ var json = [{
 	"Job_Title": "Officer",
 	"Salary": "9000"}
 	];
+

@@ -1,0 +1,29 @@
+var book = [{
+	"title": "Javascript for Dummies",
+   "author": "Dummy Dumb Dumb",
+   "read": "true"
+  },{
+	"title": "HTML for Dummies",
+   "author": "Homer Simpson",
+   "read": "false"
+  },{
+	"title": "Java for Dummies",
+   "author": "JASON",
+   "read": "false"
+  },{
+	"title": "CSS for Dummies",
+   "author": "The Q",
+   "read": "false"
+  },{
+	"title": "PHP for Dummies",
+   "author": "Theo",
+   "read": "false"
+  },{
+	"title": "LAW for Dummies",
+   "author": "WAFF",
+   "read": "false"
+  },{
+	"title": "Vacation for Dummies",
+   "author": "AMS",
+   "read": "true"
+  }];
