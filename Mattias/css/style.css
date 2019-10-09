@@ -1,0 +1,14 @@
+body{
+	padding: 5px;
+	background-color: #BDBDBD;
+}
+
+.main{
+	background-color: #F2F2F2 ;
+	height: 95vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+
+}
