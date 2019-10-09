@@ -1,0 +1,9 @@
+var book = {
+	"title": "Javascript for Dummies",
+   "author": "Dummy Dumb Dumb",
+   "read": "false"
+  },{
+	"title": "Javascript for Dummies",
+   "author": "Dummy Dumb Dumb",
+   "read": "false"
+  }
